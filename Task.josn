@@ -11,7 +11,7 @@
      "5 0 * * * https://raw.githubusercontent.com/toulanboy/scripts/master/weibo/weibotalk.js, tag=微博超话, img-url=https://raw.githubusercontent.com/Orz -3/task/master/weibo.png, enabled=false",
      "0 10 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/translate.js, tag=谷歌中英互译, img-url=https://raw.githubusercontent.com/ Orz-3/task/master/translate.png, enabled=false",
      "0 0 6 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/nasa/nasapic.js, tag=NASA每日一图, img-url=https://raw.githubusercontent .com/Orz-3/task/master/nasa.png, enabled=false",
-     "1 9 * * * https://raw.githubusercontent.com/dompling/Script/master/historyToday/index.js, tag=历史上的今天, img-url=https://raw.githubusercontent.com/Orz -3/task/master/historyToday.png, enabled=false",
-     
+     "1 9 * * * https://raw.githubusercontent.com/dompling/Script/master/historyToday/index.js, tag=历史上的今天, img-url=https://raw.githubusercontent.com/Orz -3/task/master/historyToday.png, enabled=false"
+    
     ]
  }
